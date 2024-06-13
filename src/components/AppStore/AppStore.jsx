@@ -29,7 +29,7 @@ const AppStore = () => {
               Read Books at Your Fingertips
             </h1>
             <div className="flex flex-wrap justify-center items-center mt-8"> {/* Added mt-8 for margin top */}
-  <a href="https://namansingh1314.github.io/loading/" className="mr-4"> {/* Added mr-4 for margin right */}
+  <a href="https://nush-recommends.streamlit.app/" className="mr-4"> {/* Added mr-4 for margin right */}
     <img
       src={PlayStoreImg}
       alt="Play store"
